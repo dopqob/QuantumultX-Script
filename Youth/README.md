@@ -13,11 +13,11 @@
 
 #中青Cookie获取
 <br>
-https://raw.githubusercontent.com/yyn618/QuantumultX-Script/main/Youth/Youth_cookie.conf, tag=中青Cookie获取, update-interval=172800, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/dopqob/QuantumultX-Script/main/Youth/Youth_cookie.conf, tag=中青Cookie获取, update-interval=172800, opt-parser=true, enabled=true
 
 #中青Body获取
 <br>
-https://raw.githubusercontent.com/yyn618/QuantumultX-Script/main/Youth/Youth_Read.conf, tag=中青Body获取,  update-interval=172800, opt-parser=true, enabled=false
+https://raw.githubusercontent.com/dopqob/QuantumultX-Script/main/Youth/Youth_Read.conf, tag=中青Body获取,  update-interval=172800, opt-parser=true, enabled=false
 
 <br>
 
